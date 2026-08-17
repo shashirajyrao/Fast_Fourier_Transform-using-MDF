@@ -1,0 +1,1883 @@
+---------------------------------------
+Time = 5000
+DIN  = 00000000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 15000
+DIN  = 00000000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 25000
+DIN  = 00000000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 35000
+DIN  = 40000000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 45000
+DIN  = 62000000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 55000
+DIN  = 69000000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 65000
+DIN  = 6d000000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 75000
+DIN  = 70400000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 85000
+DIN  = 71400000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 95000
+DIN  = 72400000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 105000
+DIN  = 73400000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 115000
+DIN  = 74200000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 125000
+DIN  = 74a00000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 135000
+DIN  = 75200000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 145000
+DIN  = 75a00000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 155000
+DIN  = 76200000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 165000
+DIN  = 76a00000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 175000
+DIN  = 77200000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 185000
+DIN  = 77a00000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 195000
+DIN  = 78080000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 205000
+DIN  = 78280000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 215000
+DIN  = 78480000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 225000
+DIN  = 78680000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 235000
+DIN  = 78880000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 245000
+DIN  = 78a80000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 255000
+DIN  = 78c80000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 265000
+DIN  = 78e80000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 275000
+DIN  = 79080000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 285000
+DIN  = 79280000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 295000
+DIN  = 79480000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 305000
+DIN  = 79680000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 315000
+DIN  = 79880000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 325000
+DIN  = 79a80000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 335000
+DIN  = 79c80000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 345000
+DIN  = 79e80000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 355000
+DIN  = 7a040000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 365000
+DIN  = 7a140000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 375000
+DIN  = 7a240000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 385000
+DIN  = 7a340000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 395000
+DIN  = 7a440000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 405000
+DIN  = 7a540000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 415000
+DIN  = 7a640000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 425000
+DIN  = 7a740000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 435000
+DIN  = 7a840000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 445000
+DIN  = 7a940000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 455000
+DIN  = 7aa40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 465000
+DIN  = 7ab40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 475000
+DIN  = 7ac40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 485000
+DIN  = 7ad40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 495000
+DIN  = 7ae40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 505000
+DIN  = 7af40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 515000
+DIN  = 7b040000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 525000
+DIN  = 7b140000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 535000
+DIN  = 7b240000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 545000
+DIN  = 7b340000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 555000
+DIN  = 7b440000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 565000
+DIN  = 7b540000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 575000
+DIN  = 7b640000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 585000
+DIN  = 7b740000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 595000
+DIN  = 7b840000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 605000
+DIN  = 7b940000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 615000
+DIN  = 7ba40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 625000
+DIN  = 7bb40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 635000
+DIN  = 7bc40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 645000
+DIN  = 7bd40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 655000
+DIN  = 7be40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 665000
+DIN  = 7bf40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 675000
+DIN  = 7c010000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 685000
+DIN  = 7c050000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 695000
+DIN  = 7c090000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 705000
+DIN  = 7c0d0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 715000
+DIN  = 7c110000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 725000
+DIN  = 7c150000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 735000
+DIN  = 7c190000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 745000
+DIN  = 7c1d0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 755000
+DIN  = 7c210000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 765000
+DIN  = 7c250000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 775000
+DIN  = 7c290000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 785000
+DIN  = 7c2d0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 795000
+DIN  = 7c310000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 805000
+DIN  = 7c350000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 815000
+DIN  = 7c390000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 825000
+DIN  = 7c3d0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 835000
+DIN  = 7c410000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 845000
+DIN  = 7c450000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 855000
+DIN  = 7c490000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 865000
+DIN  = 7c4d0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 875000
+DIN  = 7c510000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 885000
+DIN  = 7c550000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 895000
+DIN  = 7c590000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 905000
+DIN  = 7c5d0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 915000
+DIN  = 7c610000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 925000
+DIN  = 7c650000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 935000
+DIN  = 7c690000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 945000
+DIN  = 7c6d0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 955000
+DIN  = 7c710000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 965000
+DIN  = 7c750000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 975000
+DIN  = 7c790000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 985000
+DIN  = 7c7d0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 995000
+DIN  = 7c810000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1005000
+DIN  = 7c850000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1015000
+DIN  = 7c890000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1025000
+DIN  = 7c8d0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1035000
+DIN  = 7c910000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1045000
+DIN  = 7c950000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1055000
+DIN  = 7c990000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1065000
+DIN  = 7c9d0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1075000
+DIN  = 7ca10000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1085000
+DIN  = 7ca50000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1095000
+DIN  = 7ca90000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1105000
+DIN  = 7cad0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1115000
+DIN  = 7cb10000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1125000
+DIN  = 7cb50000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1135000
+DIN  = 7cb90000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1145000
+DIN  = 7cbd0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1155000
+DIN  = 7cc10000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1165000
+DIN  = 7cc50000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1175000
+DIN  = 7cc90000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1185000
+DIN  = 7ccd0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1195000
+DIN  = 7cd10000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1205000
+DIN  = 7cd50000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1215000
+DIN  = 7cd90000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1225000
+DIN  = 7cdd0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1235000
+DIN  = 7ce10000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1245000
+DIN  = 7ce50000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1255000
+DIN  = 7ce90000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1265000
+DIN  = 7ced0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1275000
+DIN  = 7cf10000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1285000
+DIN  = 7cf50000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1295000
+DIN  = 7cf90000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1305000
+DIN  = 7cfd0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1315000
+DIN  = 7d000000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1325000
+DIN  = 7d020000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1335000
+DIN  = 7d040000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1345000
+DIN  = 7d060000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1355000
+DIN  = 7d080000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1365000
+DIN  = 7d0a0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1375000
+DIN  = 7d0c0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1385000
+DIN  = 7d0e0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1395000
+DIN  = 7d100000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1405000
+DIN  = 7d120000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1415000
+DIN  = 7d140000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1425000
+DIN  = 7d160000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1435000
+DIN  = 7d180000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1445000
+DIN  = 7d1a0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1455000
+DIN  = 7d1c0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1465000
+DIN  = 7d1e0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1475000
+DIN  = 7d200000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1485000
+DIN  = 7d220000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1495000
+DIN  = 7d240000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1505000
+DIN  = 7d260000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1515000
+DIN  = 7d280000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1525000
+DIN  = 7d2a0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1535000
+DIN  = 7d2c0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1545000
+DIN  = 7d2e0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1555000
+DIN  = 7d300000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1565000
+DIN  = 7d320000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1575000
+DIN  = 7d340000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1585000
+DIN  = 7d360000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1595000
+DIN  = 7d380000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1605000
+DIN  = 7d3a0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1615000
+DIN  = 7d3c0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1625000
+DIN  = 7d3e0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1635000
+DIN  = 7d400000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1645000
+DIN  = 7d420000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1655000
+DIN  = 7d440000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1665000
+DIN  = 7d460000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1675000
+DIN  = 7d480000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1685000
+DIN  = 7d4a0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1695000
+DIN  = 7d4c0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1705000
+DIN  = 7d4e0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1715000
+DIN  = 7d500000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1725000
+DIN  = 7d520000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1735000
+DIN  = 7d540000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1745000
+DIN  = 7d560000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1755000
+DIN  = 7d580000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1765000
+DIN  = 7d5a0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1775000
+DIN  = 7d5c0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1785000
+DIN  = 7d5e0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1795000
+DIN  = 7d600000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1805000
+DIN  = 7d620000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1815000
+DIN  = 7d640000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1825000
+DIN  = 7d660000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1835000
+DIN  = 7d680000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1845000
+DIN  = 7d6a0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1855000
+DIN  = 7d6c0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1865000
+DIN  = 7d6e0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1875000
+DIN  = 7d700000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1885000
+DIN  = 7d720000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1895000
+DIN  = 7d740000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1905000
+DIN  = 7d760000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1915000
+DIN  = 7d780000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1925000
+DIN  = 7d7a0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1935000
+DIN  = 7d7c0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1945000
+DIN  = 7d7e0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1955000
+DIN  = 7d800000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1965000
+DIN  = 7d820000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1975000
+DIN  = 7d840000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1985000
+DIN  = 7d860000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 1995000
+DIN  = 7d880000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2005000
+DIN  = 7d8a0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2015000
+DIN  = 7d8c0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2025000
+DIN  = 7d8e0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2035000
+DIN  = 7d900000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2045000
+DIN  = 7d920000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2055000
+DIN  = 7d940000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2065000
+DIN  = 7d960000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2075000
+DIN  = 7d980000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2085000
+DIN  = 7d9a0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2095000
+DIN  = 7d9c0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2105000
+DIN  = 7d9e0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2115000
+DIN  = 7da00000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2125000
+DIN  = 7da20000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2135000
+DIN  = 7da40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2145000
+DIN  = 7da60000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2155000
+DIN  = 7da80000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2165000
+DIN  = 7daa0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2175000
+DIN  = 7dac0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2185000
+DIN  = 7dae0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2195000
+DIN  = 7db00000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2205000
+DIN  = 7db20000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2215000
+DIN  = 7db40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2225000
+DIN  = 7db60000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2235000
+DIN  = 7db80000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2245000
+DIN  = 7dba0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2255000
+DIN  = 7dbc0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2265000
+DIN  = 7dbe0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2275000
+DIN  = 7dc00000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2285000
+DIN  = 7dc20000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2295000
+DIN  = 7dc40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2305000
+DIN  = 7dc60000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2315000
+DIN  = 7dc80000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2325000
+DIN  = 7dca0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2335000
+DIN  = 7dcc0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2345000
+DIN  = 7dce0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2355000
+DIN  = 7dd00000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2365000
+DIN  = 7dd20000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2375000
+DIN  = 7dd40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2385000
+DIN  = 7dd60000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2395000
+DIN  = 7dd80000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2405000
+DIN  = 7dda0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2415000
+DIN  = 7ddc0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2425000
+DIN  = 7dde0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2435000
+DIN  = 7de00000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2445000
+DIN  = 7de20000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2455000
+DIN  = 7de40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2465000
+DIN  = 7de60000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2475000
+DIN  = 7de80000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2485000
+DIN  = 7dea0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2495000
+DIN  = 7dec0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2505000
+DIN  = 7dee0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2515000
+DIN  = 7df00000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2525000
+DIN  = 7df20000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2535000
+DIN  = 7df40000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2545000
+DIN  = 7df60000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2555000
+DIN  = 7df80000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2565000
+DIN  = 7dfa0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2575000
+DIN  = 7dfc0000
+DOUT HEX REAL = 0000
+DOUT HEX IMAG = 0000
+VALID_OUT = 0
+
+---------------------------------------
+Time = 2585000
+DIN  = 7dfe0000
+DOUT HEX REAL = 7fae
+DOUT HEX IMAG = 0000
+VALID_OUT = 1
+
+---------------------------------------
+Time = 2595000
+DIN  = 7dfe0000
+DOUT HEX REAL = 7f98
+DOUT HEX IMAG = 0000
+VALID_OUT = 1
+
+---------------------------------------
+Time = 2605000
+DIN  = 7dfe0000
+DOUT HEX REAL = 803e
+DOUT HEX IMAG = 0000
+VALID_OUT = 1
+
+---------------------------------------
+Time = 2615000
+DIN  = 7dfe0000
+DOUT HEX REAL = 7f90
+DOUT HEX IMAG = 0000
+VALID_OUT = 1
+
+---------------------------------------
+Time = 2625000
+DIN  = 7dfe0000
+DOUT HEX REAL = 8148
+DOUT HEX IMAG = 7f02
+VALID_OUT = 1
+
+---------------------------------------
+Time = 2635000
+DIN  = 7dfe0000
+DOUT HEX REAL = 80e6
+DOUT HEX IMAG = 7f88
+VALID_OUT = 1
+
+---------------------------------------
+Time = 2645000
+DIN  = 7dfe0000
+DOUT HEX REAL = 8069
+DOUT HEX IMAG = 7f08
+VALID_OUT = 1
+
+---------------------------------------
+Time = 2655000
+DIN  = 7dfe0000
+DOUT HEX REAL = 8082
+DOUT HEX IMAG = 0000
+VALID_OUT = 1
+
+---------------------------------------
+Time = 2665000
+DIN  = 7dfe0000
+DOUT HEX REAL = 8057
+DOUT HEX IMAG = 80bd
+VALID_OUT = 1
+
+---------------------------------------
+Time = 2675000
+DIN  = 7dfe0000
+DOUT HEX REAL = 80a2
+DOUT HEX IMAG = 808c
+VALID_OUT = 1
+
+---------------------------------------
+Time = 2685000
+DIN  = 7dfe0000
+DOUT HEX REAL = 805e
+DOUT HEX IMAG = 805f
+VALID_OUT = 1
+
